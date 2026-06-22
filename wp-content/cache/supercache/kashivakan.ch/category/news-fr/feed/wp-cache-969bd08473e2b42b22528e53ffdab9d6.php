@@ -1,0 +1,142 @@
+<?php die(); ?><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; Kashivakan Karate-Do</title>
+	<atom:link href="https://kashivakan.ch/category/news-fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kashivakan.ch</link>
+	<description></description>
+	<lastBuildDate>Sat, 01 Sep 2018 14:35:04 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.13</generator>
+
+<image>
+	<url>https://kashivakan.ch/wp-content/uploads/2018/05/cropped-kashivakanKarateDo_logo-noir_2-32x32.jpg</url>
+	<title>News &#8211; Kashivakan Karate-Do</title>
+	<link>https://kashivakan.ch</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Victoire au niveau européen pour Arben</title>
+		<link>https://kashivakan.ch/victoire-au-niveau-europeen-pour-arben/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=victoire-au-niveau-europeen-pour-arben</link>
+					<comments>https://kashivakan.ch/victoire-au-niveau-europeen-pour-arben/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Tue, 29 May 2018 20:37:57 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Non classé]]></category>
+		<category><![CDATA[Résultats]]></category>
+		<guid isPermaLink="false">http://kashivakan-karatedo.ch/?p=133</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Le jeune karatéka Arben Pjetraj, membre du cadres national et athlète du&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/victoire-au-niveau-europeen-pour-arben/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Victoire au niveau européen pour Arben&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[<p>Le jeune karatéka Arben Pjetraj, membre du cadres national et athlète du Kashivakan a remporter le weekend dernier à Sofia l&rsquo;or dans sa catégorie en combat.</p>
+<p>Le Kashivakan est fier de son succès et félicite Arben pour sa belle performance !</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-135" src="http://kashivakan-karatedo.ch/wp-content/uploads/2018/05/k1_arben-2-632x412.jpg" alt="" width="632" height="412" srcset="https://kashivakan.ch/wp-content/uploads/2018/05/k1_arben-2-632x412.jpg 632w, https://kashivakan.ch/wp-content/uploads/2018/05/k1_arben-2-768x500.jpg 768w, https://kashivakan.ch/wp-content/uploads/2018/05/k1_arben-2-1020x665.jpg 1020w, https://kashivakan.ch/wp-content/uploads/2018/05/k1_arben-2.jpg 1280w" sizes="(max-width: 632px) 100vw, 632px" /></p>
+<p style="text-align: right;"><b> <div class="sfsi_widget"><div id="sfsi_wDiv"></div><div class="norm_row sfsi_wDiv"  style="width:225px;text-align:left;position:absolute;"><div style='width:40px; height:40px;margin-left:5px;margin-bottom:5px;' class='sfsi_wicons shuffeldiv '><div class='inerCnt'><a class=' sficn' effect='' target='_blank'  href='javascript:void(0);' id='sfsiid_facebook' alt='Facebook' style='opacity:1' ><img alt='Facebook' title='Facebook' src='https://kashivakan.ch/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png' width='40' height='40' style='' class='sfcm sfsi_wicon' effect=''   /></a><div class="sfsi_tool_tip_2 fb_tool_bdr sfsiTlleft" style="width:62px ;opacity:0;z-index:-1;margin-left:-47.5px;" id="sfsiid_facebook"><span class="bot_arow bot_fb_arow"></span><div class="sfsi_inside"><div  class='icon2'><div class="fb-like" data-href="https://kashivakan.ch/category/news-fr/feed" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div></div><div  class='icon3'><div class="fb-share-button" data-href="https://kashivakan.ch/category/news-fr/feed" data-layout="button"></div></div></div></div></div></div></div ><div id="sfsi_holder" class="sfsi_holders" style="position: relative; float: left;width:100%;z-index:-1;"></div ><script>jQuery(".sfsi_widget").each(function( index ) {
+					if(jQuery(this).attr("data-position") == "widget")
+					{
+						var wdgt_hght = jQuery(this).children(".norm_row.sfsi_wDiv").height();
+						var title_hght = jQuery(this).parent(".widget.sfsi").children(".widget-title").height();
+						var totl_hght = parseInt( title_hght ) + parseInt( wdgt_hght );
+						jQuery(this).parent(".widget.sfsi").css("min-height", totl_hght+"px");
+					}
+				});</script><div style="clear: both;"></div></div></b></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/victoire-au-niveau-europeen-pour-arben/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Plein de Médailles à La Swiss Karaté League de Lausanne</title>
+		<link>https://kashivakan.ch/plein-de-medailles-a-la-swiss-karate-league-de-lausanne/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=plein-de-medailles-a-la-swiss-karate-league-de-lausanne</link>
+					<comments>https://kashivakan.ch/plein-de-medailles-a-la-swiss-karate-league-de-lausanne/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Thu, 24 May 2018 14:39:16 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Résultats]]></category>
+		<guid isPermaLink="false">http://kashivakan-karatedo.ch/?p=61</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Félicitations à tous nos sportifs ! Le Kashivakan à fait une excellente&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/plein-de-medailles-a-la-swiss-karate-league-de-lausanne/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Plein de Médailles à La Swiss Karaté League de Lausanne&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[<p>Félicitations à tous nos sportifs ! Le Kashivakan à fait une excellente performance en récolants de nombreuses médailles.</p>
+<p>Notamment les sportifs suivants dans leur catégories respective :</p>
+<p>Aurora Mustafa, Or en kumité<br />
+Yassine Daboubi, Or en kumité<br />
+Arben Pjetraj, Argent en kumité<br />
+Aïcha Boutracit, Argent en kata<br />
+Cyrille Maillefer, Bronze en kumité<br />
+Almin Salkic, Bronze en kata</p>
+<p>Bravo Kashivakan Karaté do Bienne !!! Oss</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/plein-de-medailles-a-la-swiss-karate-league-de-lausanne/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Le Kashivakan s&#8217;agrandit !</title>
+		<link>https://kashivakan.ch/le-kashivakan-sagrandit/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-kashivakan-sagrandit</link>
+					<comments>https://kashivakan.ch/le-kashivakan-sagrandit/#comments</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Thu, 24 May 2018 14:33:10 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://kashivakan-karatedo.ch/?p=59</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Le Kashivakan Karate-Do Bienne s&#8217;agrandit. Senseï Boris Leskarovski à repris le Dojo&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/le-kashivakan-sagrandit/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Le Kashivakan s&#8217;agrandit !&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[<p>Le Kashivakan Karate-Do Bienne s&rsquo;agrandit. Senseï Boris Leskarovski à repris le Dojo Mushashi à Mort. Le Kashivakan-Karate do Morat est donc né !</p>
+<p>Plusieurs aménagements doivent encore être effectués, portes ouvertes et inauguration seront agendé aux alentours de la rentrée scolaire (cette été).</p>
+<p>A bientôt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/le-kashivakan-sagrandit/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Promo Tour 2018</title>
+		<link>https://kashivakan.ch/organisation-du-promo-tour-2018/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=organisation-du-promo-tour-2018</link>
+					<comments>https://kashivakan.ch/organisation-du-promo-tour-2018/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Thu, 24 May 2018 14:28:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://kashivakan-karatedo.ch/?p=56</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+L&#8217;organisation du promo tour 2018 bat son plein. Grace au nombreux bénévoles,&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/organisation-du-promo-tour-2018/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Promo Tour 2018&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[<p>L&rsquo;organisation du promo tour 2018 bat son plein. Grace au nombreux bénévoles, amis et ou parents du club, tous les postes sont occupés et la manifestation pour se dérouler dans les meilleures conditions</p>
+<p>Un grand merci à tous les bénévoles !!</p>
+<p>Oss</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-252" src="http://kashivakan.ch/wp-content/uploads/2018/05/sku-promo-tour_bienne2018-632x894.jpg" alt="" width="632" height="894" srcset="https://kashivakan.ch/wp-content/uploads/2018/05/sku-promo-tour_bienne2018-632x894.jpg 632w, https://kashivakan.ch/wp-content/uploads/2018/05/sku-promo-tour_bienne2018-768x1086.jpg 768w, https://kashivakan.ch/wp-content/uploads/2018/05/sku-promo-tour_bienne2018-1020x1443.jpg 1020w, https://kashivakan.ch/wp-content/uploads/2018/05/sku-promo-tour_bienne2018.jpg 1240w" sizes="(max-width: 632px) 100vw, 632px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/organisation-du-promo-tour-2018/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

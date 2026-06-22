@@ -1,0 +1,69 @@
+<?php die(); ?><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Murten/Morat Kashivakan Karaté	</title>
+	<atom:link href="https://kashivakan.ch/murten-morat-kashivakan-karate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kashivakan.ch/murten-morat-kashivakan-karate/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=murten-morat-kashivakan-karate</link>
+	<description></description>
+	<lastBuildDate>Sat, 17 Nov 2018 10:43:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.13</generator>
+	<item>
+		<title>
+		Par : Kashivakan		</title>
+		<link>https://kashivakan.ch/murten-morat-kashivakan-karate/#comment-7</link>
+
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 17 Nov 2018 10:43:53 +0000</pubDate>
+		<guid isPermaLink="false">http://kashivakan-karatedo.ch/?p=160#comment-7</guid>
+
+					<description><![CDATA[En réponse à &lt;a href=&quot;https://kashivakan.ch/murten-morat-kashivakan-karate/#comment-6&quot;&gt;Abbühl&lt;/a&gt;.
+
+Boris Sensei ist unten dieser Nummer : 078 631 75 53 erreichbar.
+
+MfG]]></description>
+			<content:encoded><![CDATA[<p>En réponse à <a href="https://kashivakan.ch/murten-morat-kashivakan-karate/#comment-6">Abbühl</a>.</p>
+<p>Boris Sensei ist unten dieser Nummer : 078 631 75 53 erreichbar.</p>
+<p>MfG</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Par : Abbühl		</title>
+		<link>https://kashivakan.ch/murten-morat-kashivakan-karate/#comment-6</link>
+
+		<dc:creator><![CDATA[Abbühl]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2018 10:16:20 +0000</pubDate>
+		<guid isPermaLink="false">http://kashivakan-karatedo.ch/?p=160#comment-6</guid>
+
+					<description><![CDATA[Guten Tag
+
+mein Name ist Sandra Abbühl. Meine Tochter Vanessa (12) würde gern einmal zu ihnen schnuppern kommen. 
+Wäre das möglich?
+Ich habe keine Telefonnummer gefunden, sonst hätte ich angerufen.
+Mit freundlichen Grüssen
+
+Sandra Abbühl
+Tel: 079 239 52 83]]></description>
+			<content:encoded><![CDATA[<p>Guten Tag</p>
+<p>mein Name ist Sandra Abbühl. Meine Tochter Vanessa (12) würde gern einmal zu ihnen schnuppern kommen.<br />
+Wäre das möglich?<br />
+Ich habe keine Telefonnummer gefunden, sonst hätte ich angerufen.<br />
+Mit freundlichen Grüssen</p>
+<p>Sandra Abbühl<br />
+Tel: 079 239 52 83</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

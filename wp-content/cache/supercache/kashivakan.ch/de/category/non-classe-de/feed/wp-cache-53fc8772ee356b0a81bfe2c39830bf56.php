@@ -1,0 +1,341 @@
+<?php die(); ?><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Non classé &#8211; Kashivakan Karate-Do</title>
+	<atom:link href="https://kashivakan.ch/de/category/non-classe-de/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kashivakan.ch</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Apr 2023 05:13:46 +0000</lastBuildDate>
+	<language>de-CH</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.13</generator>
+
+<image>
+	<url>https://kashivakan.ch/wp-content/uploads/2018/05/cropped-kashivakanKarateDo_logo-noir_2-32x32.jpg</url>
+	<title>Non classé &#8211; Kashivakan Karate-Do</title>
+	<link>https://kashivakan.ch</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Biel, 3-4 June SKU PromoTour 2023</title>
+		<link>https://kashivakan.ch/de/biel-3-4-june-sku-promotour-2023/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=biel-3-4-june-sku-promotour-2023</link>
+					<comments>https://kashivakan.ch/de/biel-3-4-june-sku-promotour-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2023 05:13:45 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=683</guid>
+
+					<description><![CDATA[<div class="link-more"><a href="https://kashivakan.ch/de/biel-3-4-june-sku-promotour-2023/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Biel, 3-4 June SKU PromoTour 2023&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" width="826" height="1169" src="http://kashivakan.ch/wp-content/uploads/2023/04/SKUPromoTourBienne9affiche2023-1.jpg" alt="" class="wp-image-684" srcset="https://kashivakan.ch/wp-content/uploads/2023/04/SKUPromoTourBienne9affiche2023-1.jpg 826w, https://kashivakan.ch/wp-content/uploads/2023/04/SKUPromoTourBienne9affiche2023-1-632x894.jpg 632w, https://kashivakan.ch/wp-content/uploads/2023/04/SKUPromoTourBienne9affiche2023-1-768x1087.jpg 768w" sizes="(max-width: 826px) 100vw, 826px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/biel-3-4-june-sku-promotour-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SKU Promo Tour Fribourg 2022</title>
+		<link>https://kashivakan.ch/de/sku-promo-tour-fribourg-2022-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sku-promo-tour-fribourg-2022-2</link>
+					<comments>https://kashivakan.ch/de/sku-promo-tour-fribourg-2022-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 21:10:34 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=659</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Das Wort von Sensei Boris für dieses Wochenende vom 1. und 2.&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/de/sku-promo-tour-fribourg-2022-2/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;SKU Promo Tour Fribourg 2022&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Das Wort von Sensei Boris für dieses Wochenende vom 1. und 2. Oktober 2022,</p>
+
+
+
+<p><strong>&#171;Bravo die Kinder, Bravo meinen Champions, ich bin stolz auf dich! Ein tolles Ooss!&#187;</strong></p>
+
+
+
+<p>Wir waren 15 Athleten, um für diesen 3. Promotour nach Friborg zu ziehen. Der Wettbewerb wurde von 4 Goldmedaillen, 3 Silber, 5 Bronze und 1 erstem Diplom, 3 des zweiten und 4 des dritten Platzes gekrönt.</p>
+
+
+
+<p>Alina, Amel, Camelia, Ellie, Emily, Francesko, Jana, Kaan, Marwa, Johan, Sahin, Shervin, Tansel, Wyatt, Yasmine sind die Teilnehmer des Turniers. Die Ehrungen waren für 6 in Kata und für 14 in Kumite.</p>
+
+
+
+<p>Hier sind <a href="https://cdn.sportdata.org/276307ce-5818-4ef6-b574-3458a7f7a583/" target="_blank" rel="noreferrer noopener">die vollen Ergebnisse des Wochenendes</a>.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1020" height="882" src="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-2-1020x882.jpg" alt="" data-id="664" data-full-url="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-2.jpg" data-link="http://kashivakan.ch/?attachment_id=664" class="wp-image-664" srcset="https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-2-1020x882.jpg 1020w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-2-632x547.jpg 632w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-2-768x664.jpg 768w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-2.jpg 1334w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure></li><li class="blocks-gallery-item"><figure><img src="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0002-2-1020x953.jpg" alt="" data-id="665" data-full-url="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0002-2.jpg" data-link="http://kashivakan.ch/?attachment_id=665" class="wp-image-665"/></figure></li><li class="blocks-gallery-item"><figure><img src="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0004-2-1020x765.jpg" alt="" data-id="667" data-full-url="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0004-2.jpg" data-link="http://kashivakan.ch/?attachment_id=667" class="wp-image-667"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1020" height="765" src="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-2-1020x765.jpg" alt="" data-id="666" data-full-url="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-2.jpg" data-link="http://kashivakan.ch/?attachment_id=666" class="wp-image-666" srcset="https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-2-1020x765.jpg 1020w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-2-632x474.jpg 632w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-2-768x576.jpg 768w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-2-1536x1152.jpg 1536w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-2.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure></li></ul></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/sku-promo-tour-fribourg-2022-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lion Cup 2022 – Luxembourg</title>
+		<link>https://kashivakan.ch/de/lion-cup-2022-luxembourg-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lion-cup-2022-luxembourg-2</link>
+					<comments>https://kashivakan.ch/de/lion-cup-2022-luxembourg-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 21:04:08 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=657</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Am 24. September 2022 vertrat Johan uns in diesem europäischen Karate -Treffen.&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/de/lion-cup-2022-luxembourg-2/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Lion Cup 2022 – Luxembourg&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Am 24. September 2022 vertrat Johan uns in diesem europäischen Karate -Treffen. Vielen Dank an Johan.</p>
+
+
+
+<p>Sie finden <a href="https://cdn.sportdata.org/753b37fe-c3f0-443f-83f5-5068b7743eda/" target="_blank" rel="noreferrer noopener">alle Ergebnisse in diesem Link</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/lion-cup-2022-luxembourg-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2. Swiss Karate League 2022 – Neuenburg</title>
+		<link>https://kashivakan.ch/de/2-swiss-karate-league-2022-neuenburg/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2-swiss-karate-league-2022-neuenburg</link>
+					<comments>https://kashivakan.ch/de/2-swiss-karate-league-2022-neuenburg/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 21:00:44 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=654</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Am 10. und 11. September 2022 vertraten 9 Athleten Kashivakan in Neuenburg.&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/de/2-swiss-karate-league-2022-neuenburg/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;2. Swiss Karate League 2022 – Neuenburg&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Am 10. und 11. September 2022 vertraten 9 Athleten Kashivakan in Neuenburg.</p>
+
+
+
+<p>Kashivakan endete am 25. in den 61 registrierten Clubs. Glückwünsche an alle!</p>
+
+
+
+<p>Details folgen und wenn Sie möchten,<a href="https://cdn.sportdata.org/e0ea774b-5421-48b9-8850-60c3884c12a9/" target="_blank" rel="noreferrer noopener"> finden Sie die Ergebnisse hier</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/2-swiss-karate-league-2022-neuenburg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SKU Promo Tour Biel 2022</title>
+		<link>https://kashivakan.ch/de/sku-promo-tour-biel-2022/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sku-promo-tour-biel-2022</link>
+					<comments>https://kashivakan.ch/de/sku-promo-tour-biel-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 20:56:20 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=652</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Am 11. und 12. Juni 2022 organisierten wir unser Turnier in der&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/de/sku-promo-tour-biel-2022/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;SKU Promo Tour Biel 2022&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Am 11. und 12. Juni 2022 organisierten wir unser Turnier in der Seeturnhalle an einem Wochenende mit gutem Wetter.</p>
+
+
+
+<p>Dieses Jahr ist ein Rekordjahr durch die Teilnahme und durch die neue Para-Karate-Kategorie.</p>
+
+
+
+<p>Weitere Details folgen in Kürze – aber Sie können <a href="https://ucarecdn.com/c844a502-3a1f-4d82-9b61-cf0d5f60cd67/" target="_blank" rel="noreferrer noopener">alle Ergebnisse im Anhang finden</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/sku-promo-tour-biel-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>1. Swiss Karate League 2022 – Wettingen</title>
+		<link>https://kashivakan.ch/de/1-swiss-karate-league-2022-wettingen-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=1-swiss-karate-league-2022-wettingen-2</link>
+					<comments>https://kashivakan.ch/de/1-swiss-karate-league-2022-wettingen-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 20:53:26 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=650</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Am 21. Mai 2022 fand die erste Schweizer Liga des Jahres statt,&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/de/1-swiss-karate-league-2022-wettingen-2/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;1. Swiss Karate League 2022 – Wettingen&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Am 21. Mai 2022 fand die erste Schweizer Liga des Jahres statt, Kashivakan zog mit 7 Athleten für 9 Anmeldungen um.</p>
+
+
+
+<p>Mehr Details in Kürze. Kashivakan bekam nämlich 4 den dritten Platz und 1 den fünften Platz.</p>
+
+
+
+<p><a href="https://ucarecdn.com/cc56bd90-cba1-4d93-89ae-3d89dfd9c72a/" target="_blank" rel="noreferrer noopener">Vollständige Ergebnisse</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/1-swiss-karate-league-2022-wettingen-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>INTERNATIONAL SWISS JUNIOR OPEN 2022 – Basel</title>
+		<link>https://kashivakan.ch/de/samourai-cup-luxembourg-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=samourai-cup-luxembourg-3</link>
+					<comments>https://kashivakan.ch/de/samourai-cup-luxembourg-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 20:47:41 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=646</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Am 8. Mai 2022 war Johan Kashivakans Vertreter in Basel. Trotz seiner&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/de/samourai-cup-luxembourg-3/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;INTERNATIONAL SWISS JUNIOR OPEN 2022 – Basel&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Am 8. Mai 2022 war Johan Kashivakans Vertreter in Basel. Trotz seiner guten Leistungen in den Kategorien U14 -43kg und Open gelang es Johan nicht, das Podium zu erklimmen, aber ein großer Glückwunsch für seinen Willen.</p>
+
+
+
+<p><a href="https://ucarecdn.com/f14b50aa-6f55-4bbc-91ac-d53dd684f78a/" target="_blank" rel="noreferrer noopener">Vollständige Ergebnisse</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/samourai-cup-luxembourg-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samourai Cup – LUXEMBOURG</title>
+		<link>https://kashivakan.ch/de/samourai-cup-luxembourg-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=samourai-cup-luxembourg-2</link>
+					<comments>https://kashivakan.ch/de/samourai-cup-luxembourg-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 20:40:48 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=644</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+20 März 2022 Herzlichen Glückwunsch an Johan für seinen ersten Platz im&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/de/samourai-cup-luxembourg-2/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Samourai Cup – LUXEMBOURG&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>20 März 2022</p>
+
+
+
+<p>Herzlichen Glückwunsch an Johan für seinen ersten Platz im Samurai Cup. Wettbewerb, der 11 Vereine für 211 Anmeldungen zusammenbrachte.</p>
+
+
+
+<p><a href="https://ucarecdn.com/f14b50aa-6f55-4bbc-91ac-d53dd684f78a/" target="_blank" rel="noreferrer noopener">Vollständige Ergebnisse</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/samourai-cup-luxembourg-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SKU Promo Tour Vallorbe 2022</title>
+		<link>https://kashivakan.ch/de/sku-promo-tour-vallorbe-2022-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sku-promo-tour-vallorbe-2022-2</link>
+					<comments>https://kashivakan.ch/de/sku-promo-tour-vallorbe-2022-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 20:35:58 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=642</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Am Wochenende vom 12. bis 13. März 2022 fand das erste von&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/de/sku-promo-tour-vallorbe-2022-2/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;SKU Promo Tour Vallorbe 2022&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Am Wochenende vom 12. bis 13. März 2022 fand das erste von drei Turnieren der Promo Tour 2022 im V-CENTER in Vallorbe statt.</p>
+
+
+
+<p>13 Athleten aus Kashivakan nahmen an Kata und Kumite teil und 18 Athleten nahmen an Kumite teil.</p>
+
+
+
+<p>Entwicklung folgt&#8230;.</p>
+
+
+
+<p><a href="https://ucarecdn.com/8ee4546c-99bc-4e06-906e-9b631ccd3482/" target="_blank" rel="noreferrer noopener">Ergebnisse Samstag U10-U12</a></p>
+
+
+
+<p><a href="https://ucarecdn.com/c9c558ca-ca9a-4dd5-b2ed-cc714125f48b/" target="_blank" rel="noreferrer noopener">Ergebnisse Sonntag U14-U18</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/sku-promo-tour-vallorbe-2022-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Schweizermeisterschaften / Championnat suisse 2021 – Sursee</title>
+		<link>https://kashivakan.ch/de/die-neuigkeiten-werden-in-kurze-aktualisiert/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=die-neuigkeiten-werden-in-kurze-aktualisiert</link>
+					<comments>https://kashivakan.ch/de/die-neuigkeiten-werden-in-kurze-aktualisiert/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 08:38:22 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=596</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Am 27 November 2021. Kashivakan nahm mit 8 Athleten: Alina, Amel, Patricio-Clémont,&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/de/die-neuigkeiten-werden-in-kurze-aktualisiert/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Schweizermeisterschaften / Championnat suisse 2021 – Sursee&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Am 27 November 2021. Kashivakan nahm mit 8 Athleten: Alina, Amel, Patricio-Clémont, Raphael, Sahin, Tansel, Yann, Yassine an der Schweizer Meisterschaft teil. <strong>HERZLICHEN GLÜCKWUNSCH AN ALLE!</strong></p>
+
+
+
+<p>Wir haben 2 Bronzemedaillen von Alina und Amel.</p>
+
+
+
+<p>Und 4. Platz Raphael, Sahin, Tansel und Yann.</p>
+
+
+
+<p>Kashivakan belegte den 36. Platz von 57 Teams.</p>
+
+
+
+<p>Hier <a href="https://www.sportdata.org/karate/ausschreibungen/6064/SM-CS%202021%20Rangliste%20-%20Resultats.pdf" target="_blank" rel="noreferrer noopener">finden Sie alle vollständigen Ergebnisse</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/de/die-neuigkeiten-werden-in-kurze-aktualisiert/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

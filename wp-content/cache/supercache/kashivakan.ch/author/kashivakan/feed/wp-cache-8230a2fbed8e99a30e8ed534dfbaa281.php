@@ -1,0 +1,439 @@
+<?php die(); ?><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kashivakan &#8211; Kashivakan Karate-Do</title>
+	<atom:link href="https://kashivakan.ch/author/kashivakan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kashivakan.ch</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 May 2025 05:03:46 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.13</generator>
+
+<image>
+	<url>https://kashivakan.ch/wp-content/uploads/2018/05/cropped-kashivakanKarateDo_logo-noir_2-32x32.jpg</url>
+	<title>Kashivakan &#8211; Kashivakan Karate-Do</title>
+	<link>https://kashivakan.ch</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Promo-Tour Bienne 2025</title>
+		<link>https://kashivakan.ch/promo-tour-bienne-2025/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=promo-tour-bienne-2025</link>
+					<comments>https://kashivakan.ch/promo-tour-bienne-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 04:58:19 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=729</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Voici le programme du Promo-Tour pour le weekend 10 et 11 mai&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/promo-tour-bienne-2025/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Promo-Tour Bienne 2025&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Voici le programme du Promo-Tour pour le weekend 10 et 11 mai 2025.</p>
+
+
+
+<div class="wp-block-file"><object class="wp-block-file__embed" data="http://kashivakan.ch/wp-content/uploads/2025/05/2025_PromoTour_programme.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Contenu embarqué 2025_PromoTour_programme."></object><a href="http://kashivakan.ch/wp-content/uploads/2025/05/2025_PromoTour_programme.pdf">2025_PromoTour_programme</a><a href="http://kashivakan.ch/wp-content/uploads/2025/05/2025_PromoTour_programme.pdf" class="wp-block-file__button" download>Télécharger</a></div>
+
+
+
+<p>Les compétitions:</p>
+
+
+
+<p>Kata U10-U12 samedi 10 mai</p>
+
+
+
+<div class="wp-block-file"><object class="wp-block-file__embed" data="http://kashivakan.ch/wp-content/uploads/2025/05/20250510_kata.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Contenu embarqué 20250510_kata."></object><a href="http://kashivakan.ch/wp-content/uploads/2025/05/20250510_kata.pdf">20250510_kata</a><a href="http://kashivakan.ch/wp-content/uploads/2025/05/20250510_kata.pdf" class="wp-block-file__button" download>Télécharger</a></div>
+
+
+
+<p>Kumite U10-U12 samedi 10 mai</p>
+
+
+
+<div class="wp-block-file"><object class="wp-block-file__embed" data="http://kashivakan.ch/wp-content/uploads/2025/05/20250510_kumite.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Contenu embarqué 20250510_kumite."></object><a href="http://kashivakan.ch/wp-content/uploads/2025/05/20250510_kumite.pdf">20250510_kumite</a><a href="http://kashivakan.ch/wp-content/uploads/2025/05/20250510_kumite.pdf" class="wp-block-file__button" download>Télécharger</a></div>
+
+
+
+<p>Kata Dimanche U14-U16-U18</p>
+
+
+
+<div class="wp-block-file"><object class="wp-block-file__embed" data="http://kashivakan.ch/wp-content/uploads/2025/05/20250511_kata.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Contenu embarqué 20250511_kata."></object><a href="http://kashivakan.ch/wp-content/uploads/2025/05/20250511_kata.pdf">20250511_kata</a><a href="http://kashivakan.ch/wp-content/uploads/2025/05/20250511_kata.pdf" class="wp-block-file__button" download>Télécharger</a></div>
+
+
+
+<p>Kumite dimanche U14-U16-U18</p>
+
+
+
+<div class="wp-block-file"><object class="wp-block-file__embed" data="http://kashivakan.ch/wp-content/uploads/2025/05/20250511_kumite.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Contenu embarqué 20250511_kumite."></object><a href="http://kashivakan.ch/wp-content/uploads/2025/05/20250511_kumite.pdf">20250511_kumite</a><a href="http://kashivakan.ch/wp-content/uploads/2025/05/20250511_kumite.pdf" class="wp-block-file__button" download>Télécharger</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/promo-tour-bienne-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Promo Tour 2025</title>
+		<link>https://kashivakan.ch/promo-tour-2025/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=promo-tour-2025</link>
+					<comments>https://kashivakan.ch/promo-tour-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 08:31:57 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=721</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Notre club Kashiva-Kan Karaté-Do de Bienne et Morat organise le 10 et&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/promo-tour-2025/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Promo Tour 2025&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Notre club <strong>Kashiva-Kan Karaté-Do</strong> de Bienne et Morat organise le <strong>10 et 11 mai</strong> prochain un tournoi national pour la promotion du karaté et du sport des enfants. Ce deuxième des tournois de la <strong>Swiss Karate Union</strong> SKU Promo Tour 2025 aura lieu à Bienne aux salles de sports du Gymnase Seeland, Strandboden.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1020" height="1443" src="http://kashivakan.ch/wp-content/uploads/2025/04/2025PromoTourBienne-1020x1443.jpg" alt="" class="wp-image-722" srcset="https://kashivakan.ch/wp-content/uploads/2025/04/2025PromoTourBienne-1020x1443.jpg 1020w, https://kashivakan.ch/wp-content/uploads/2025/04/2025PromoTourBienne-632x894.jpg 632w, https://kashivakan.ch/wp-content/uploads/2025/04/2025PromoTourBienne-768x1086.jpg 768w, https://kashivakan.ch/wp-content/uploads/2025/04/2025PromoTourBienne-1086x1536.jpg 1086w, https://kashivakan.ch/wp-content/uploads/2025/04/2025PromoTourBienne-1448x2048.jpg 1448w, https://kashivakan.ch/wp-content/uploads/2025/04/2025PromoTourBienne-scaled.jpg 1810w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/promo-tour-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Promo Tour 2024 Bienne</title>
+		<link>https://kashivakan.ch/promo-tour-2024-bienne/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=promo-tour-2024-bienne</link>
+					<comments>https://kashivakan.ch/promo-tour-2024-bienne/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sun, 03 Mar 2024 23:23:39 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=713</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Le 1 et 2 juin 2024 aura lieu le 2ième tournoi annuel&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/promo-tour-2024-bienne/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Promo Tour 2024 Bienne&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 1 et 2 juin 2024 aura lieu le 2ième tournoi annuel du Promo-Tour après celui de Vallorbe.</p>
+
+
+
+<p>Nous vous attendons au gymnase du Lac afin d&rsquo;admirer nos sportifs!</p>
+
+
+
+<p><a href="http://kashivakan.ch/wp-content/uploads/2024/03/2024PromoTourBienneM-scaled.jpg" target="_blank" rel="noreferrer noopener">Affiche du Promo-Tour 2024</a></p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1020" height="255" src="http://kashivakan.ch/wp-content/uploads/2024/03/banner_8014-1020x255.jpg" alt="" data-id="714" data-full-url="http://kashivakan.ch/wp-content/uploads/2024/03/banner_8014.jpg" data-link="http://kashivakan.ch/?attachment_id=714" class="wp-image-714" srcset="https://kashivakan.ch/wp-content/uploads/2024/03/banner_8014-1020x255.jpg 1020w, https://kashivakan.ch/wp-content/uploads/2024/03/banner_8014-632x158.jpg 632w, https://kashivakan.ch/wp-content/uploads/2024/03/banner_8014-768x192.jpg 768w, https://kashivakan.ch/wp-content/uploads/2024/03/banner_8014-1536x384.jpg 1536w, https://kashivakan.ch/wp-content/uploads/2024/03/banner_8014.jpg 1600w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure></li></ul></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/promo-tour-2024-bienne/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PromoTour Bienne 2023</title>
+		<link>https://kashivakan.ch/bienne-2023programme-tirages/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bienne-2023programme-tirages</link>
+					<comments>https://kashivakan.ch/bienne-2023programme-tirages/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 03:17:22 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=696</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Très beau weekend à Bienne avec un tournoi pour la promotion du&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/bienne-2023programme-tirages/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;PromoTour Bienne 2023&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Très beau weekend à Bienne avec un tournoi pour la promotion du karaté qui a rencontré un vif succès avec pour la seconde année du parakaraté. Un grand bravo!</p>
+
+
+
+<p><a href="http://kashivakan.ch/wp-admin/post.php?post=706&amp;action=edit" target="_blank" rel="noreferrer noopener">Résultats complets dans le fichier ci-joint.</a></p>
+
+
+
+<p><strong>Un grand bravo!</strong></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Programme/Tirages</strong></p>
+
+
+
+<p><a href="http://kashivakan.ch/wp-admin/post.php?post=695&amp;action=edit" target="_blank" rel="noreferrer noopener">Vous pouvez télécharger le programme pour ce week-end 3-4 juin 2023!</a></p>
+
+
+
+<p><strong>Samedi catégorie jusqu&rsquo;à U12, tirage en 3 partie</strong></p>
+
+
+
+<p><a href="http://kashivakan.ch/bienne20230603a_katateam/" target="_blank" rel="noreferrer noopener">a- Kata Team</a></p>
+
+
+
+<p><a href="http://kashivakan.ch/bienne20230603b_kata/" target="_blank" rel="noreferrer noopener">b- Tirages Kata U10 &#8211; U12</a></p>
+
+
+
+<p><a href="http://kashivakan.ch/bienne20230603c_kumite/" target="_blank" rel="noreferrer noopener">c- Tirages Kumite U10 &#8211; U12</a></p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Dimanche catégorie de U14 à U18, bloc en trois parties</strong></p>
+
+
+
+<p><a href="http://kashivakan.ch/bienne20230604d_katateam/" target="_blank" rel="noreferrer noopener">d- Kata Team +U14</a></p>
+
+
+
+<p><a href="http://kashivakan.ch/bienne20230604e_kata/" target="_blank" rel="noreferrer noopener">e- Tirage Kata U14 &#8211; U16 &#8211; U18</a></p>
+
+
+
+<p><a href="http://kashivakan.ch/bienne20230604f_kumite/" target="_blank" rel="noreferrer noopener">f- Tirages Kumite U14 &#8211; U16 &#8211; U18</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/bienne-2023programme-tirages/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>3-4 juin SKU Promo Tour Bienne 2023</title>
+		<link>https://kashivakan.ch/676-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=676-2</link>
+					<comments>https://kashivakan.ch/676-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2023 05:08:14 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=676</guid>
+
+					<description><![CDATA[<div class="link-more"><a href="https://kashivakan.ch/676-2/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;3-4 juin SKU Promo Tour Bienne 2023&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" width="826" height="1169" src="http://kashivakan.ch/wp-content/uploads/2023/04/SKUPromoTourBienne9affiche2023.jpg" alt="" class="wp-image-677" srcset="https://kashivakan.ch/wp-content/uploads/2023/04/SKUPromoTourBienne9affiche2023.jpg 826w, https://kashivakan.ch/wp-content/uploads/2023/04/SKUPromoTourBienne9affiche2023-632x894.jpg 632w, https://kashivakan.ch/wp-content/uploads/2023/04/SKUPromoTourBienne9affiche2023-768x1087.jpg 768w" sizes="(max-width: 826px) 100vw, 826px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/676-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SKU Promo Tour Fribourg 2022</title>
+		<link>https://kashivakan.ch/sku-promo-tour-fribourg-2022/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sku-promo-tour-fribourg-2022</link>
+					<comments>https://kashivakan.ch/sku-promo-tour-fribourg-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 13:01:23 +0000</pubDate>
+				<category><![CDATA[Compétition]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=614</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+La parole de Sensei Boris pour ce week-end du 1 et 2&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/sku-promo-tour-fribourg-2022/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;SKU Promo Tour Fribourg 2022&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>La parole de Sensei Boris pour ce week-end du 1 et 2 octobre 2022,</p>
+
+
+
+<p>« <strong>Bravo les enfants, bravo mes champions, je suis fier de vous! Un grand OOSSS!</strong>« </p>
+
+
+
+<p>Nous étions 15 athlètes a se déplacer à Fribourg pour ce 3ième PromoTour. La compétition fut couronnée par 4 médailles d&rsquo;or, 3 d&rsquo;argent, 5 de bronze et par 1 diplôme de première place, 3 de seconde et 4 de troisième place.</p>
+
+
+
+<p>Alina, Amel, Camelia, Ellie, Emily, Francesko, Jana, Kaan,  Marwa, Johan, Sahin, Shervin, Tansel, Wyatt, Yasmine sont les participants au tournoi. Les honneurs ont été pour 6 en kata et pour 14 en kumité</p>
+
+
+
+<p>Voici<a href="https://cdn.sportdata.org/276307ce-5818-4ef6-b574-3458a7f7a583/" data-type="URL" target="_blank" rel="noreferrer noopener"> les résultats complets du weekend</a>.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0004-1020x765.jpg" alt="" data-id="624" data-full-url="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0004.jpg" data-link="http://kashivakan.ch/img-20221005-wa0004/" class="wp-image-624"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1020" height="882" src="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-1020x882.jpg" alt="" data-id="621" data-full-url="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000.jpg" data-link="http://kashivakan.ch/img-20221005-wa0000/" class="wp-image-621" srcset="https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-1020x882.jpg 1020w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-632x547.jpg 632w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000-768x664.jpg 768w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0000.jpg 1334w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1020" height="953" src="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0002-1020x953.jpg" alt="" data-id="622" data-full-url="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0002.jpg" data-link="http://kashivakan.ch/img-20221005-wa0002/" class="wp-image-622" srcset="https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0002-1020x953.jpg 1020w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0002-632x590.jpg 632w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0002-768x717.jpg 768w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0002.jpg 1170w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1020" height="765" src="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-1020x765.jpg" alt="" data-id="623" data-full-url="http://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003.jpg" data-link="http://kashivakan.ch/img-20221005-wa0003/" class="wp-image-623" srcset="https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-1020x765.jpg 1020w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-632x474.jpg 632w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-768x576.jpg 768w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003-1536x1152.jpg 1536w, https://kashivakan.ch/wp-content/uploads/2022/10/IMG-20221005-WA0003.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" /></figure></li></ul></figure>
+
+
+
+<hr class="wp-block-separator"/>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/sku-promo-tour-fribourg-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lion Cup 2022 &#8211; Luxembourg</title>
+		<link>https://kashivakan.ch/lion-cup-2022-luxembourg/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lion-cup-2022-luxembourg</link>
+					<comments>https://kashivakan.ch/lion-cup-2022-luxembourg/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 12:52:03 +0000</pubDate>
+				<category><![CDATA[Compétition]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=612</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Le 24 septembre 2022, Johan nous a représenté dans cette réunion européenne&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/lion-cup-2022-luxembourg/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Lion Cup 2022 &#8211; Luxembourg&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 24 septembre 2022, Johan nous a représenté dans cette réunion européenne de karaté. Merci a Johan.</p>
+
+
+
+<p>Vous trouverez <a href="https://cdn.sportdata.org/753b37fe-c3f0-443f-83f5-5068b7743eda/" data-type="URL" data-id="https://cdn.sportdata.org/753b37fe-c3f0-443f-83f5-5068b7743eda/" target="_blank" rel="noreferrer noopener">tous les résultats en ce lien</a>.</p>
+
+
+
+<hr class="wp-block-separator"/>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/lion-cup-2022-luxembourg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2. Swiss Karate League 2022 &#8211; Neuchâtel</title>
+		<link>https://kashivakan.ch/2-swiss-karate-league-2022-neuchatel/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2-swiss-karate-league-2022-neuchatel</link>
+					<comments>https://kashivakan.ch/2-swiss-karate-league-2022-neuchatel/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 12:46:02 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=610</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Le 10 et 11 septembre 2022, 9 athlètes ont représenté Kashivakan à&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/2-swiss-karate-league-2022-neuchatel/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;2. Swiss Karate League 2022 &#8211; Neuchâtel&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 10 et 11 septembre 2022, 9 athlètes ont représenté Kashivakan à Neuchâtel.</p>
+
+
+
+<p>Kashivakan termine à la 25ième sur les 61 clubs inscrits. Bravo à tous!</p>
+
+
+
+<p>Des détails suiverons et si vous le voulez, <a href="https://cdn.sportdata.org/e0ea774b-5421-48b9-8850-60c3884c12a9/" data-type="URL" data-id="https://cdn.sportdata.org/e0ea774b-5421-48b9-8850-60c3884c12a9/" target="_blank" rel="noreferrer noopener">vous trouverez les résultats ici.</a></p>
+
+
+
+<hr class="wp-block-separator"/>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/2-swiss-karate-league-2022-neuchatel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SKU Promo Tour Bienne 2022</title>
+		<link>https://kashivakan.ch/sku-promo-tour-bienne-2022/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sku-promo-tour-bienne-2022</link>
+					<comments>https://kashivakan.ch/sku-promo-tour-bienne-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 12:35:20 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=608</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Le 11 et 12 juin 2022, nous avons organisé notre tournoi au&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/sku-promo-tour-bienne-2022/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;SKU Promo Tour Bienne 2022&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 11 et 12 juin 2022, nous avons organisé notre tournoi au gymnase du lac par un week-end de beau temps.</p>
+
+
+
+<p>Cette année est une année record par la participation et par la nouvelle catégorie para-Karaté.</p>
+
+
+
+<p>Plus de détails prochainement, &#8212; mais vous pouvez trouver tous <a href="https://ucarecdn.com/c844a502-3a1f-4d82-9b61-cf0d5f60cd67/" data-type="URL" data-id="https://ucarecdn.com/c844a502-3a1f-4d82-9b61-cf0d5f60cd67/">les résultats ci-joi</a><a href="https://ucarecdn.com/c844a502-3a1f-4d82-9b61-cf0d5f60cd67/" data-type="URL" data-id="https://ucarecdn.com/c844a502-3a1f-4d82-9b61-cf0d5f60cd67/" target="_blank" rel="noreferrer noopener">nt</a></p>
+
+
+
+<hr class="wp-block-separator"/>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/sku-promo-tour-bienne-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>1. Swiss Karate League 2022 &#8211; Wettingen</title>
+		<link>https://kashivakan.ch/1-swiss-karate-league-2022-wettingen/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=1-swiss-karate-league-2022-wettingen</link>
+					<comments>https://kashivakan.ch/1-swiss-karate-league-2022-wettingen/#respond</comments>
+		
+		<dc:creator><![CDATA[Kashivakan]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 12:25:48 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://kashivakan.ch/?p=606</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Le 21 mai 2022 a eu lieu la première Swiss League de&#8230;
+</div><div class="link-more"><a href="https://kashivakan.ch/1-swiss-karate-league-2022-wettingen/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;1. Swiss Karate League 2022 &#8211; Wettingen&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Le 21 mai 2022 a eu lieu la première Swiss League de l&rsquo;année, Kashivakan s&rsquo;est déplacé avec 7 athlètes pour 9 inscriptions.</p>
+
+
+
+<p>Plus de détails prochainement. A savoir, Kashivakan a obtenu 4 troisième place et 1 cinquième place.</p>
+
+
+
+<p><a href="https://ucarecdn.com/cc56bd90-cba1-4d93-89ae-3d89dfd9c72a/" data-type="URL" data-id="https://ucarecdn.com/cc56bd90-cba1-4d93-89ae-3d89dfd9c72a/">Résultats complets</a></p>
+
+
+
+<hr class="wp-block-separator"/>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kashivakan.ch/1-swiss-karate-league-2022-wettingen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

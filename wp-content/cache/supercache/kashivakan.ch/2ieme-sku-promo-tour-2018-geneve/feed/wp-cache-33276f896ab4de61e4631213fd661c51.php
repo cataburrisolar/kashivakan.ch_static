@@ -1,0 +1,21 @@
+<?php die(); ?><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : 2ième  SKU Promo Tour 2018 Genève	</title>
+	<atom:link href="https://kashivakan.ch/2ieme-sku-promo-tour-2018-geneve/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kashivakan.ch/2ieme-sku-promo-tour-2018-geneve/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2ieme-sku-promo-tour-2018-geneve</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Oct 2018 11:00:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.13</generator>
+</channel>
+</rss>
